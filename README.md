@@ -11,7 +11,7 @@ German - PDF
 
 ## On the Mineral Constituents of Meteorites.
 
-English - Plain Text  
+[English - Plain Text](on-the-mineral-constituents-of-meteorites/full-text-english.md)  
 English - PDF | Computer Modern | Coelacanth | Auriocus  
 German - Plain Text  
 German - PDF  
