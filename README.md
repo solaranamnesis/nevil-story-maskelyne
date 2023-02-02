@@ -4,7 +4,7 @@ Public Domain Works of Nevil Story Maskelyne (1823 - 1911)
 
 ## Preliminary Notice on the Mineral Constituents of the Breitenbach Meteorite.
 
-English - Plain Text  
+[English - Plain Text](constituents-of-the-breitenbach-meteorite/full-text-english.md)  
 English - PDF | Computer Modern | Coelacanth | Auriocus  
 German - Plain Text  
 German - PDF  
