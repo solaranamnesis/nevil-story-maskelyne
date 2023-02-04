@@ -52,7 +52,7 @@ In the platinum retort are the bases, in the form of sulphates, the treatment of
 
 A specimen of diopside, pulverised and analysed by the method here described, yielded 53.46 per cent.; on treatment by fusion with potassium and sodium carbonate, it gave in two analyses 53.51 and 53.54 per cent. of silicic acid.
 
-3\. The Busti Aërolite of 1852.
+# 3\. The Busti Aërolite of 1852.
 
 Among the meteorites with ingredients sufficiently large in the grain to offer an opportunity for isolating and determining their constituent minerals, is a stone that fell in India on the 2nd of December, 1852, near the station named Busti, situated about halfway between Goruckpur on the east and Fyzabad on the west, and consequently some 45 miles from Goruckpur, and nearly in 26° 49′ north latitude and 82° 42′ east longitude.
 
@@ -66,7 +66,7 @@ It was indeed fortunate that this metcorite came in its entirety into the Britis
 
 The powder produced in the cutting of the meteorite and a few fragments of the separated portion, too small for distribution to other museums, were retained for chemical examination, and slides of the different minerals were worked from some of these fragments for the microscope. A small nodule of the metallic iron was also preserved for analysis. From the fragments the different minerals were picked out under the microscope, and among these a few specimens were found sufficiently complete to throw light on their crystallography.
 
-4\. Oldhamite-Sulphide of Calcium.
+# 4\. Oldhamite-Sulphide of Calcium.
 
 I gave the name of Oldhamite to this mineral in 1862, when it first attracted my attention, though I had not then the opportunity of properly investigating it.*
 
@@ -94,7 +94,7 @@ The existence of either of these substances in a meteorite serves to prove that 
 
 The detection of hydrogen by Professor Graham in meteoric iron tends to confirm the probability of the presence of a reducing agent among the conditions under which these meteoric minerals were formed.
 
-5\. Osbornite.
+# 5\. Osbornite.
 
 The golden-yellow microscopic octahedra that have been mentioned in the description of Oldhamite were furnished by the analysis of that mineral to the amount of only 0.0028 grm., the first analysis having yielded 0.0013, and the second 0.0015 grm. Yet even this minute weight, forming less than 0.3 per cent. of that of the Oldhamite, was divided between upwards of 150 crystals. These crystals were nevertheless capable of being measured by the goniometer.
 
@@ -146,7 +146,7 @@ In whatever manner, whether as a constituent base in the augite itself, or as a 
 
 It may not be out of place here to call attention to a singular golden-yellow incrustation, cubic in the form of its particles, obtained by Professor Mallet, of Alabama University, USA, by heating metallic zirconium to an intense heat in a furnace with lime and aluminium. These crystals were not analysed, but it is not impossible that sulphur from the fuel might have supplied that ingredient, and that these crystals were in their nature analogous to those revealed to us in this meteorite, for like the Osbornite crystals they were not attacked by the strongest acids (see American Journal of Science, Series 2, vol. 28. 1859, p. 346).
 
-6\. The Augitic Constituent of the Busti Aërolite.
+# 6\. The Augitic Constituent of the Busti Aërolite.
 
 Associated with the spherules of calcium sulphide that have been described as occurring in a nodule in this aërolite, and also less plentifully distributed through the rest of its mass, is the silicate, to which allusions have already been made as a variety of augite, and as containing traces of an element with some of the chemical characteristics of titanium. This silicate is of a pale violet-grey colour, intimately mixed in the form of crystalline grains with another silicate presently to be described. These crystalline lilac-grey grains, when isolated as much as possible from the other minerals, present a few crystalfaces, among which one as a cleavage-plane is prominent. The rest are very imperfect; and it is extremely difficult to get any measurements that are at all reliable from them. The goniometrical observations, however, were sufficient, together with the optical characters of the mineral, to determine that it belonged to the oblique system. These measurements gave the following approximate values:---
 
