@@ -286,10 +286,10 @@ In concluding this memoir, in which I have endeavourcd to deal as exhaustively a
 
 ## Plate 1.
 
-[Figure 1](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure1.png) and [Figure 2](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure2.png) represent ...
+[Figure 1](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure1.png) and [Figure 2](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure2.png) represent sections of crystals of the augite as seen in the microscope with a power of 45 linear; that in fig. 1 is nearly in the zone [1 0 0, 0 1 0] and a little oblique to the plane 1 0 0; that in fig. 2 is slightly oblique to the plane 0 0 1, and a little so also to the zone [0 0 1, 0 1 0]. The lines P, P indicate the planes of vibration.
 
-[Figure 3](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure3.png) and [Figure 4](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure4.png) represent ...
+[Figure 3](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure3.png) and [Figure 4](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure4.png) represent sections, as secn in a microscopic slide cut from the meteorite, of crystals of enstatite, that in fig. 3 being nearly in the zone of the prism planes, and that in fig. 4 being nearly perpendicular to these.
 
 ## [Plate 2](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate2.png).
 
-Representation of the Busti ....
+Representation of the Busti meteoric stone, in two views taken from opposite points. The letter N indicates the position of the nodule containing the Oldhamite and Osbornite, of which a section is also represented in the Plate. All the drawings are of the natural size.
