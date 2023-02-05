@@ -151,3 +151,15 @@ It may not be out of place here to call attention to a singular golden-yellow in
 Associated with the spherules of calcium sulphide that have been described as occurring in a nodule in this aërolite, and also less plentifully distributed through the rest of its mass, is the silicate, to which allusions have already been made as a variety of augite, and as containing traces of an element with some of the chemical characteristics of titanium. This silicate is of a pale violet-grey colour, intimately mixed in the form of crystalline grains with another silicate presently to be described. These crystalline lilac-grey grains, when isolated as much as possible from the other minerals, present a few crystalfaces, among which one as a cleavage-plane is prominent. The rest are very imperfect; and it is extremely difficult to get any measurements that are at all reliable from them. The goniometrical observations, however, were sufficient, together with the optical characters of the mineral, to determine that it belonged to the oblique system. These measurements gave the following approximate values:---
 
 ...
+
+# Explanation of the Plates.
+
+## Plate 1.
+
+[Figure 1](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure1.png) and [Figure 2](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure2.png) represent ...
+
+[Figure 3](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure3.png) and [Figure 4](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate1-Figure4.png) represent ...
+
+## [Plate 2](https://cdn.solaranamnesis.com/NevilStoryMaskelyne/Plate2.png).
+
+Representation of the Busti ....
