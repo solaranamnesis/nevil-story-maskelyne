@@ -150,7 +150,137 @@ It may not be out of place here to call attention to a singular golden-yellow in
 
 Associated with the spherules of calcium sulphide that have been described as occurring in a nodule in this aërolite, and also less plentifully distributed through the rest of its mass, is the silicate, to which allusions have already been made as a variety of augite, and as containing traces of an element with some of the chemical characteristics of titanium. This silicate is of a pale violet-grey colour, intimately mixed in the form of crystalline grains with another silicate presently to be described. These crystalline lilac-grey grains, when isolated as much as possible from the other minerals, present a few crystalfaces, among which one as a cleavage-plane is prominent. The rest are very imperfect; and it is extremely difficult to get any measurements that are at all reliable from them. The goniometrical observations, however, were sufficient, together with the optical characters of the mineral, to determine that it belonged to the oblique system. These measurements gave the following approximate values:---
 
-...
+A slide cut for the microscope from a fragment of the nodule was found to exhibit a section of one of the crystals of this mineral cut very nearly parallel to the plane of symmetry. Two of the edges bounding this section were parallel, the one to a series of lines running through the crystal corresponding to its cleavage-planes, the other to certain bands that are constantly present in this augite, generally parallel to the plane 0 0 1, and formed of a white doubly refracting silicate, no doubt of the enstatite next to be described, intercalated in microscopic layers through the augite. These two edges represent the planes 1 0 0 and 0 0 1 as seen in a section nearly parallel to the plane of symmetry. They gave a normal angle of 0 0 1, 1 0 0 = 75° 15′. In diopside this angle is 73° 59′.
+
+Light traversing this section of the crystal between crossed Nicols is at its maximum of extinction when polarised in a plane parallel or perpendicular to a line, making with 0 0 1 an angle very near to 22° 45′, and with 1 0 0 an approximate angle of 52° 30′. In diopside the second mean line makes corresponding angles of 22° 5′ and 51° 6′ with these normals. These measurements were made by an eyepiece goniometer fitted to the microscope, and having a fixed spider-line to indicate the plane of polarisation, while a rotating line is employed to measure on a graduated circle the inclinations of the edges and other directions in the section.
+
+A section made parallel to the plane 1 0 0 exhibited one of the optic axes on the limit of the field of view in a Nörremberg's polariscope. The plane containing the optic axes is perpendicular to the edge [1 0 0, 0 0 1], and the optical character in the centre of the field is negative.
+
+In all the above respects the mineral accords with diopside.
+
+When looked through in a direction nearly normal to 0 0 1 or 0 1 0, or indeed in any direction parallel to the zone circle [0 0 1, 0 1 0], the crystals show a remarkable dichroism, which is, however, especially conspicuous when the direction is nearly normal to the plane 0 0 1.
+
+If the section is parallel to the plane of symmetry, light polarised in a plane perpendicular to the principal section containing the acute mean line and the axis of symmetry is transmitted, of a pale pink lilac; when the crystal is turned 90°, so as to bring the same principal section into parallelism with the plane of polarisation, the transmitted tint is bluer, exhibiting a pale slate-blue or lavender.
+
+The plane 1 0 0 presents a somewhat facile cleavage, much more readily obtained than cleavages which are also met with on the planes of the form 1 1 0, the latter being interrupted and uneven. The plane 1 0 0 is aleo conspicuous for a remarkable metallic lustre, recalling that seen on some kinds of diallage, but of a fine golden hue.
+
+Two analyses of this mineral by the method already described, the silica being distilled as silicium difluoride and determined as potassium fluosilicate, gave the following results:---
+
+This does not accord with the analyses of the ordinary varieties of augite, in which the calcium is usually in excess of the magnesium.
+
+It is, however, to be observed that a small deduction of the corresponding magnesium silicate (enstatite) has to be made by reason of the presence of the white mineral intercalated in layers along the direction parallel to the plane 0 0 1, and sometimes also to a second plane of the crystal. This mineral is doubtless the enstatite next to be described, and its presence would only modify the true formula of the augite by adding to the proportion of the magnesian constituent. The amount of one equivalent of enstatite to three of augite that this explanation would require, is more than microscopic observations would warrant; and it is probable that the augite itself is richer in magnesium than is usual in terrestrial augites.
+
+The small amount of the oxide that in this augite corresponds to the ingredient of Osbornite that I identify with a titanoid metal, is met with in the precipitate by ammonia from the solution of the bases, and is included with the iron oxide in the above analyses.
+
+# 7\. Enstatite as a Constituent of the Busti Meteorite.
+
+Besides the augitic mineral that has just been described, there is present in this meteorite another silicate which is in fact its most important ingredient. The augite is present in greatest quantity in the nodule that contains the calcium sulphide, though it is met with in smaller amount in the other parts of the meteorite. But associated with it everywhere, and otherwise forming the mass of the stone, is the mineral I have next to describe. As seen in a microscopic section, it presents the appearance of a number of more or less fissured crystals with different degrees of transparency, sometimes quite clear, sometimes nearly opaque, and with a more or less symmetrical polygonal outline. These crystals are imbedded in a magma of fine-grained silicate, through which a sort of irregular meshwork of an opaque white mineral is seen to ramify. When the ingredients are mechanically separated and examined, it is not difficult to distinguish what seem to be three different minerals. One is rare; it is colourless and transparent, and may be obtained in small splinters that have the appearance of being the result of a definite cleavage. The little planes thus obtained are too often merely divisional surfaces without crystallographic significance; and where they possess a more definite character, they present such rude faces that the values obtained for the angles can rarely be relied on. Another form of the mineral mass is that of a grey semitransparent splintery mineral, the fragments being generally very composite. From these two varieties I failed in obtaining the measurements of an entire zone, the planes in which belonged to the same individual, and the attempt to cleave these minute individuals apart only serves to destroy them. The third form is that of a dark grey glistening crystalline substance tabular in form and very opaque. It presented cleavages indistinctly marking the faces of a prism, for which the mean of several measurements gave an angle of { 88° 35′ / 91° 25′ }; and to the planes (1 1 0) of this prism a dull face (0 0 1) is perpendicular, which seems in this case to be a second and less facile cleavage.
+
+The results subjoined were obtained from seven selected fragments of the other forms of this mineral. They lack the important check which the polariscope affords; for the substance was usually too opaque for the use of this instrument, or else too composite to give any value to the results obtained with it. The fragments experimented upon were extremely minute and fragile, often breaking into powder while being mounted for the goniometer, and the angles are necessarily only approximate.
+
+The planes 1 0 0 and 1 1 0 are cleavages. In some cases, generally where the crystals are very composite, a cleavage seems to run parallel to a plane inclined at 73° to 74° to the face (1 0 0) and 90° to the face (0 1 0). As the forms of the mineral presenting this plane contain calcium, I have been uncertain whether to attribute the importance of this plane in certain specimens to an intermixture of augite with the enstatite. The plane 1 0 4 is also a conspicuous one on the crystals of enstatite in the Breitenbach meteorite, and the angle (74° 4′) which it makes with the plane 1 0 0 in that mineral is very near that of the inclination (73° 59′) of the planes 1 0 0 and 0 0 1 of diopside.
+
+The chemical analysis of these three minerals shows that they are really enstatite under different aspects. Where the substance contains no lime it presents itself as a simply prismatic mineral, the dark grey tabular variety; where lime is present, though to the amount of less than 2 per cent., the crystalline structure becomes more complex, and it is far more difficult to obtain pieces in which it is sufficiently definite in character to allow of any measurements at all. It seems probable that the augite is in these cases blended in minute quantity, by a sort of tesselation, with the enstatite, somewhat as the enstatite is seen to be intercalated in narrow bands between layers of the augite already described, although the enstatite in the latter case is in much larger relative amount. But I have failed to obtain satisfactory proof of the actual presence of the augite from the optical characters of the sections of the mineral as seen in the microscope; though these frequently exhibit a structure in a high degree composite in its crystalline characters, the principal sections of the different parts of the mineral being in these cases disposed at all sorts of angles of mutual inclination. The analysis of these minerals yielded the following numbers:---
+
+The greater part of the soda and part of the potash in these analyses, as in those of the augite, is certainly due to an impurity traceable to a minute amount of these bases contaminating the hydrochloric acid employed. The iron is present partly as metallic iron in a state of minutest subdivision, in small part also without doubt in combination in the magnesian silicate. In every case the bases are slightly in excess of the amount requisite for the formula of enstatite. It would seem highly probable, from the comparison of these with the known analyses and with such as I shall have to offer of other meteorites, that where in these bodies the conditions under which the rock was formed were such that the silicic acid was in excess of that required by the formula for enstatite, it has remained uncombined in the form of a crystallised silica with the specific gravity of _fused_ quartz; but that where the magnesium and other bases were in excess, a basic silicate with the formula of olivine absorbed the supplementary portion of these bases. Where calcium is present, it probably converts into an augite a portion of the materials that otherwise would go to constitute enstatite.
+
+In none of the particular meteorites hitherto examined in the Museum Laboratory has a trace of alumina been found, though it has been carefully looked for, and consequently no felspathic ingredient has been detected in them.
+
+8\. General Analysis of the Busti Meteorite.
+
+In order to determine approximately the proportions in which the different ingredient minerals were present in the meteorite, and to ascertain whether any other mineral had escaped detection, an analysis of the fragments and dust of the stone from the neighbourhood of the nodule containing the sulphides and the augite was made. The material employed was that obtained on cutting the meteorite by a dry wheel-saw, used to prevent the introduction of foreign substances. 1.874 grm. were taken for analysis. The sulphur was determined, as in the case of the Oldhamite, as sulphide of silver, and as separated by means of carbon disulphide. Heated with hydrogen chloride, and afterwards with potash, there was dissolved by those reagents and by the carbon disulphide 16.873 per cent., the residue being 83.127. The soluble part gave the results in column 1, the insoluble part those in column 2; the sulphur and sulphuric acid being supposed to be present as calcium sulphide and sulphate respectively.
+
+The insoluble part in this analysis would correspond to a composition SiO₃(Mg_sub(3/4)Ca_sub(1/4)), which, if we consider the calcium as being present as a constituent of the augite and the formula of this mineral to be SiO₃(Mg_sub(5/8)Ca_sub(3/8)), will give for the insoluble silicate of the rock in the neighbourhood of the nodule a composition of two equivalents of augite to one of enstatite. As the analysis of the soluble portion showed that some of the above minerals had been dissolved, it was thought advisable to determine what and how much of them were rendered soluble by the action of hydrogen chloride in the cold. For this purpose some fresh material, selected partly from the neighbourhood of the nodule, partly from a portion of the meteorite consisting entirely of silicates, was submitted to the action of a mixture of one of hydrogen chloride and two of water for sixty-six hours at ordinary temperatures. Some sulphuretted hydrogen was given off and 4.419 per cent. dissolved. By a further treatment of the insoluble portion with soda 1.204 per cent. was removed from it. The acid had dissolved 0.501 per cent. silica, an amount of calcium corresponding to 1.285 per cent. of Oldhamite, 1.896 per cent. of magnesia, and 0.564 per cent. of iron. The oxygen ratios of the silica and magnesia dissolved are as 0.91 to 0.758, and show that of the 3.601 per cent. magnesian silicates extracted about 2.65 per cent. was olivine, the residue being enstatite.*
+
+*) In 1863 Mr. William Dancer analysed some of this powder from the cutting of this meteorite in the Laboratory of Professor Bunsen at Heidelberg.  
+The results, which he was so good as to place in my hands, were as follow:---  
+"The mass of the stone," he says, "is evidently a monosilicate of magnesia, lime, potash, and lithia; the iron and nickel existing in small particles as nickel-iron together with a small portion of manganese. The percentage of substance soluble in water is 1.03; this consists of sulphide of sodium, chloride of calcium, sulphate of lime, and traces of lithia and potash." Of course from such material as was in Mr. Dancer's hands it was impossible for him to separate the different minerals.
+
+A formula for the augite rather richer in lime would no doubt give a truer statement of the composition; but it is as impossible to separate the small amount of enstatite intercalated in the layers of the augite, as it is to distinguish and remove the latter mineral from the enstatite with which it appears in general to be so intimately blended.
+
+9\. The Action of Acids on the Enstatite and Augite.
+
+As it appeared of some importance to determine the degree to which these meteoric minerals were soluble in the acids used for separating the silicates of a meteorite, and whether an olivinous constituent could be found in the Busti aërolite associated with the enstatite, or with some other silicate, the augite and the enstatite described in the previous sections were submitted to this solvent action. Alternately digested for many hours at 100° C. in strong hydrogen chloride, diluted with its volume of water and in caustic potash for ten or twelve hours to remove the separated silica, each of the three forms of enstatite proved to be acted upon; and the results in each case showed that the acid exercises simply a solvent action upon the mineral without separating it into two or more distinct silicates.
+
+The subjoined Table records these experiments. The different degrees in which the acid dissolved the minerals in either case was due to the more or less complete character of the trituration to which the minerals had been subjected.
+
+I deemed it desirable in one case (and I selected the transparent variety for this purpose) to repeat the process three times so as to remove any doubt as to the nature of the action exercised by the acid.
+
+Of the greyish-white variety, 1.0686 grm. was submitted to the action of acid for twenty hours at 100°, and subsequently to that of potash, to remove separated silica, for twelve hours. It yielded
+
+The analysis of the 9.414 per cent. dissolved is given in column 1 of the Table.
+
+Of the grey tabular variety of enstatite 0.1478 grm. were treated by hydrogen chloride for sixteen hours at 100°, and subsequently by potash for a similar time.
+
+The 7.779 per cent. dissolved gave on analysis numbers the approximate composition of which is given in column 2.
+
+Of the white variety of the enstatite 0.2082 grm. yielded on a _first treatment_ for twenty hours with acid, and subsequently with potash,
+
+The approximate composition of the 12.68 of dissolved mineral is given in column 3.
+
+On a _second_ treatment of the undissolved portion, whereof after two hours further trituration 0.1674 grm. were operated on as before with acid for thirty, and with potash for twelve hours,
+
+On a _third_ treatment in a similar way 0.0424 grm. yielded:
+
+In the last two treatments of the white silicate the quantities, 0.0437 and 0.0091 grm., of ingredients dissolved by the acid and 0.07 and 0.0126 of silicic acid dissolved by the potash were too small for even approximate analysis. The ratio of silicic acid to the bases, neglecting the small amount of the former dissolved by the acid, is in the last case in the ratio of 58.4 SiO₂ : 42 bases, that of the analysis of this white variety giving a ratio of 58.4 : 41.6.
+
+The degree to which the augite is soluble was determined by subjecting this mineral to a treatment similar to that by which the enstatite was dissolved; 0.2714 grm. so treated for eighteen hours by acid, and a similar time by potash at 100° C., gave 0.2614 of unchanged, and 0.0193 of dissolved mineral. This corresponds to 7.384 per cent. of the latter and 92.616 of the former.
+
+There can be little doubt from these results that the action of acid on the minerals with the formula of enstatite or of augite is that simply of a solvent.
+
+10\. The Iron of the Busti Meteorite.
+
+A small pepita of the iron, weighing 0.1997 grm., contained in the meteorite was analysed. A small quantity of silicates and of glistening Schreibersite was left at first undissolved by hydrogen chloride. A second treatment with acid dissolved the latter.
+
+The first solution contained a trace of phosphoric acid, and a small quantity of hydrogen sulphide came off from the iron during its solution. The metallic constituents of the dissolved portion were separately determined, and an analysis was also made of the Schreibersite. The results were:
+
+The quantity was far too small to encourage a search for cobalt and other metals.
+
+Besides the nickeliferous iron, which is disseminated very sparsely, and in particles singularly unequal as regards their size and distribution, and with which troilite is associated in very small quantity, chromite is present as a constituent of small but appreciable amount.
+
+The crystals of this mineral are distinct, and sometimes present minute brilliant faces and good angles for measurement. One of these gave the solid angle of a regular octahedron.
+
+11\. On the Manegaum Meteorite of 1843.
+
+Of the circumstances attending the fall of the Manegaum meteorite, and of its appearance as seen in section in the microscope, I gave some account in the Philosophical Magazine of 1863.
+
+I was precluded at that time from making chemical analyses at the British Museum, and was unable to investigate with any precision the nature of this stone, which is one of those that, in the well-defined character of a chief ingredient, offers considerable advantages for the inquiry on which I am engaged.
+
+The meteorite fell on the 29th of June,* 1843, at Manegaum in Khandeish, at half past three o'clock PM. A very small part of it was preserved; and of this a little fragment was sent to the British Museum, as one among many valuable contributions of the kind from the Asiatic Society of Bengal.
+
+*) The date usually assigned to this fall, _viz._ the 16th of July, is erroneous. The true day of the fall is given, in the Mahratta account of it, as the third day of the month Asarh sudi, on Thursday. I am indebted to General Cunningham for the identification of this date with the 29th of June, 1843. [For the account see Journal As. Soc. Bengal, vol. 13. p. 880.]
+
+The examination and the analysis of this meteorite had therefore to be performed on very minute quantities; in fact on a few grains of _débris_ that had become detached from the brittle little stone.
+
+The conspicuous ingredient in this meteorite is a pale yellow-green, or primrose-coloured mineral, with a tint similar to that of a very pale peridot or chrysolite, occurring in crystalline grains cemented together, in a state of very slight aggregation, by a white opaque silicate, which in a microscopic section has a flocculent appearance.
+
+The granules of green minerals present in the microscope the appearance of tolerably symmetrical crystals, and are seen of every size, from that of a small pin's head to that of a microscopic dust.
+
+In separating this green mincral from the fragile mass, I have never succeeded in obtaining a crystal of it entire.
+
+The mineral is enstatite; if, at least, we are to include under this name every isomorphous mixture of iron and magnesium silicates with the formula MSiO₃ and crystallised in the prismatic system, but without the distinguishing features either of hypersthene or of diaclasite.
+
+Two of the grains selected from the picked green mineral for measurement gave the following results, ---
+
+The comparison of these measurements with those obtained from the enstatite of the Breitenbach siderolite given in the second column will suffice for the identification of the two minerals as enstatite.
+
+The analysis of the Manegaum mineral was performed by the method of distillation already described. 0.2658 grm. was taken.
+
+If we allow for the probable presence of a little augite, corresponding proportionately to the lime found in the analysis, this Manegaum mineral will have the formula of an enstatite richer in iron that even that of the Breitenbach siderolite, the formula for which is (4/5 Mg 1/5 Fe) SiO₃. The formula (2/3 Mg 1/3 Fe) SiO₃ requires a percentage composition of SiO₂ = 54.2; MgO = 24; FeO = 21.7, which would accord very closely with that of the Manegaum enstatite if we deduct the 1.5 per cent. of silica that the analysis gives in excess.
+
+The specific gravity of the Manegaum enstatite is 3.198, its hardness is 5-6.
+
+A small portion of the meteorite was taken for analysis in its entirety. A black mineral disseminated in a band running through it in minute crystalline particles is chromite; its formula is assumed as FeCr₂O₄. 0.4078 grm. was analysed by the hydrogen fluoride method, and gave the following results:---
+
+The silicic acid in this sample of the entire meteorite is in the exact proportion requisite for the enstatite formula; it is therefore not improbable that the excess found in the green enstatite may have been due to an error in the analysis rather than to the presence of either free silica or of a silicate with a higher proportion of this ingredient.
+
+The Manegaum meteorite contains a very minute amount of meteoric iron, far too small for isolation and analysis; indeed the portion taken for analysis could hardly have contained a trace of it.
+
+This meteorite is interesting as presenting us with an instance of a meteoric rock constituted of a single silicate, and that enstatite. It differs from the mass of the Busti meteorite in that the latter is a nearly pure magnesian enstatite, while that of Manegaum is a highly ferriferous one. The two meteorites concur also in the light they throw on the nature of the flocculent opaque white mineral seen in the microscopic sections of many meteorites. In these two cases, at least, that mineral is enstatite.
+
+---
+
+In concluding this memoir, in which I have endeavourcd to deal as exhaustively as possible with the constitution and characters of two remarkable meteorites, I wish to record the great services rendered me in its investigation by Dr. Flight, Assistant in my Department at the British Museum, to whose manipulatory skill and care I am greatly indebted in the chemical part of the inquiry.
 
 # Explanation of the Plates.
 
