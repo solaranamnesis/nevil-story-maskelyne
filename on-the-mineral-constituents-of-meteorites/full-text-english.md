@@ -186,7 +186,7 @@ The greater part of the soda and part of the potash in these analyses, as in tho
 
 In none of the particular meteorites hitherto examined in the Museum Laboratory has a trace of alumina been found, though it has been carefully looked for, and consequently no felspathic ingredient has been detected in them.
 
-8\. General Analysis of the Busti Meteorite.
+# 8\. General Analysis of the Busti Meteorite.
 
 In order to determine approximately the proportions in which the different ingredient minerals were present in the meteorite, and to ascertain whether any other mineral had escaped detection, an analysis of the fragments and dust of the stone from the neighbourhood of the nodule containing the sulphides and the augite was made. The material employed was that obtained on cutting the meteorite by a dry wheel-saw, used to prevent the introduction of foreign substances. 1.874 grm. were taken for analysis. The sulphur was determined, as in the case of the Oldhamite, as sulphide of silver, and as separated by means of carbon disulphide. Heated with hydrogen chloride, and afterwards with potash, there was dissolved by those reagents and by the carbon disulphide 16.873 per cent., the residue being 83.127. The soluble part gave the results in column 1, the insoluble part those in column 2; the sulphur and sulphuric acid being supposed to be present as calcium sulphide and sulphate respectively.
 
@@ -198,7 +198,7 @@ The results, which he was so good as to place in my hands, were as follow:---
 
 A formula for the augite rather richer in lime would no doubt give a truer statement of the composition; but it is as impossible to separate the small amount of enstatite intercalated in the layers of the augite, as it is to distinguish and remove the latter mineral from the enstatite with which it appears in general to be so intimately blended.
 
-9\. The Action of Acids on the Enstatite and Augite.
+# 9\. The Action of Acids on the Enstatite and Augite.
 
 As it appeared of some importance to determine the degree to which these meteoric minerals were soluble in the acids used for separating the silicates of a meteorite, and whether an olivinous constituent could be found in the Busti aërolite associated with the enstatite, or with some other silicate, the augite and the enstatite described in the previous sections were submitted to this solvent action. Alternately digested for many hours at 100° C. in strong hydrogen chloride, diluted with its volume of water and in caustic potash for ten or twelve hours to remove the separated silica, each of the three forms of enstatite proved to be acted upon; and the results in each case showed that the acid exercises simply a solvent action upon the mineral without separating it into two or more distinct silicates.
 
@@ -228,7 +228,7 @@ The degree to which the augite is soluble was determined by subjecting this mine
 
 There can be little doubt from these results that the action of acid on the minerals with the formula of enstatite or of augite is that simply of a solvent.
 
-10\. The Iron of the Busti Meteorite.
+# 10\. The Iron of the Busti Meteorite.
 
 A small pepita of the iron, weighing 0.1997 grm., contained in the meteorite was analysed. A small quantity of silicates and of glistening Schreibersite was left at first undissolved by hydrogen chloride. A second treatment with acid dissolved the latter.
 
@@ -240,7 +240,7 @@ Besides the nickeliferous iron, which is disseminated very sparsely, and in part
 
 The crystals of this mineral are distinct, and sometimes present minute brilliant faces and good angles for measurement. One of these gave the solid angle of a regular octahedron.
 
-11\. On the Manegaum Meteorite of 1843.
+# 11\. On the Manegaum Meteorite of 1843.
 
 Of the circumstances attending the fall of the Manegaum meteorite, and of its appearance as seen in section in the microscope, I gave some account in the Philosophical Magazine of 1863.
 
