@@ -123,6 +123,11 @@ That the octahedra of Osbornite are "regular" octahedra will be apparent from th
 
 This approximate method of measuring the angles of so minute a crystal, when used with some crystals of Osbornite, gave for:
 
+1 1 1, 1 1 1' a mean of fifteen measurements on two crystals 70° 27′, Regular octahedron 70° 31′  
+1 1 1, 1 1' 1' a mean of nine measurements on two crystals 109° 31′, Regular octahedron 109° 28′  
+1 1 1, 1 1' 1 a mean of six measurements on two crystals 69° 58′  
+1 1 1, 1 1 1' a mean of six measurements on a third crystal 70° 37′
+
 The analysis of this mineral presented a very difficult problem, the total amount available being too minute for any quantitative results to be expected from it. Moreover it was found that these little crystals resisted the action of the acids when in their integrity, and when crushed their minute size rendered the manipulation most difficult and the results uncertain. Boiled for a long while in nitric acid they were unchanged; and even hydrogen fluoride had no apparent action on them. They passed unscathed through a fusion of a small amount of Oldhamite with potassium-sodium carbonate; though when fused with potassium chlorate, a crystal of Osbornite entirely disappeared --- perhaps from its escaping notice.
 
 The crystals are very brittle, and after being crushed the powder retains the beautiful golden colour of the surface, which is therefore intrinsic and not due to a tarnish; to which cause, however, a ruddy hue in two of the crystals may have been due.
@@ -168,6 +173,13 @@ It may not be out of place here to call attention to a singular golden-yellow in
 # 6\. The Augitic Constituent of the Busti Aërolite.
 
 Associated with the spherules of calcium sulphide that have been described as occurring in a nodule in this aërolite, and also less plentifully distributed through the rest of its mass, is the silicate, to which allusions have already been made as a variety of augite, and as containing traces of an element with some of the chemical characteristics of titanium. This silicate is of a pale violet-grey colour, intimately mixed in the form of crystalline grains with another silicate presently to be described. These crystalline lilac-grey grains, when isolated as much as possible from the other minerals, present a few crystalfaces, among which one as a cleavage-plane is prominent. The rest are very imperfect; and it is extremely difficult to get any measurements that are at all reliable from them. The goniometrical observations, however, were sufficient, together with the optical characters of the mineral, to determine that it belonged to the oblique system. These measurements gave the following approximate values:---
+
+0 0 1, 1 0 0 = about 75° 30′, those of diopside being 73° 59′  
+0 0 1, 1 1 0 = about 81°, those of diopside being 79° 29′  
+1 1 0, 1 0 0 = 45° 54′ to 47° 26′, those of diopside being 46° 27′  
+1 1 0, 1' 1 0 = 85° 8′ to 86° 20′, those of diopside being 87° 5′  
+1 0 0, 1 1 1 ? = 53° 25′ to 54° 15′, those of diopside being 53° 50′  
+0 0 1, 1' 1 0 = 100° 8′, those of diopside being 100° 57′
 
 A slide cut for the microscope from a fragment of the nodule was found to exhibit a section of one of the crystals of this mineral cut very nearly parallel to the plane of symmetry. Two of the edges bounding this section were parallel, the one to a series of lines running through the crystal corresponding to its cleavage-planes, the other to certain bands that are constantly present in this augite, generally parallel to the plane 0 0 1, and formed of a white doubly refracting silicate, no doubt of the enstatite next to be described, intercalated in microscopic layers through the augite. These two edges represent the planes 1 0 0 and 0 0 1 as seen in a section nearly parallel to the plane of symmetry. They gave a normal angle of 0 0 1, 1 0 0 = 75° 15′. In diopside this angle is 73° 59′.
 
