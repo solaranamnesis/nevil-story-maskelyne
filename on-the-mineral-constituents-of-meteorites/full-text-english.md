@@ -84,7 +84,26 @@ Experimental analyses of calcium sulphide, formed by passing first hydrogen and 
 
 The results of the first analysis are given below as No. 1; those of a second, in which 0.5061 grm. of the mineral in rather large spherules were taken, are given as No. 2.
 
+Table 1.
+
+|1.|2.  
+Undissolved silicate|---, ---, 7.644|---, 8.456  
+Octahedra (Osbornite)|---, ---, 0.277|---, 0.297  
+Dissolved silicate (enstatite)|{SiO₃ 1.159, Mg 0.366}, 1.525|{0.875, 0.276}, 1.151  
+Residuary magnesium (as magnesium monosulphide)|{Mg 1.257, S 1.676}, 2.933|{1.229, 1.638}, 2.867  
+Calcium monosulphide|{S 35.888, Ca 44.860}, 80.748|{35.227, 44.034}, 79.261  
+Calcium sulphate (gypsum)|{Ca 0.830, SO₄ 1.933, H₂O 0.747}, 3.570|{0.856, 2.054, 0.770}, 3.680  
+Calcium caronate|{Ca 1.241, (CO₂ 1.861)}, 3.102|  
+Iron sulphide (Troilite)||{Fe 1.288, S 0.736}, 2.024  
+Iron (probably metallic)|{Fe 0.507}|---, 0.261  
+
 The dissolved silicate, as will be seen in the sequel, is most likely to be enstatite, that mineral being the more soluble of the two silicates in which the Oldhamite is imbedded. That a portion of the magnesium is present as sulphide is a necessary conclusion from the proportions of sulphur and of metal in the spherules. I have assumed the sulphuric acid to correspond to the ordinary hydrated calcium sulphate (gypsum), and the residuary calcium in analysis 1 to be present as calcium carbonate. The result of this interpretation of the above analyses is that, if we deduct the silicates encrusting the Oldhamite together with the Osbornite and the iron that the spherules contain, we have the following composition for these spherules and their oxidised coating.
+
+Table 2.
+
+|1.|2.  
+Oldhamite|{Calcium monosulphide 80.748 89.369, Magnesium monosulphide 2.933 3.246}|{Calcium monosulphide 79.261 90.244, Magnesium monosulphide 2.867 3.264}  
+Incrustation|{Gypsum 3.570 3.951, Calcium carbonate 3.102 3.434, Troilite --- ---}|{Troilite 2.024 2.303}  
 
 The magnesium sulphide may be looked on either as a mechanically mixed ingredient or as a constituent of the Oldhamite.*
 
