@@ -197,6 +197,21 @@ The plane 1 0 0 presents a somewhat facile cleavage, much more readily obtained 
 
 Two analyses of this mineral by the method already described, the silica being distilled as silicium difluoride and determined as potassium fluosilicate, gave the following results:---
 
+|1.|2.|Mean.|Oxygen ratios.  
+Silicic acid|55.389|55.594|55.491|29.28  
+Magnesia|23.621|23.036|23.328|9.331  
+Lime|20.02|19.942|19.981|5.709  
+Iron oxide|0.78|0.309  
+Soda|0.554|[0.554]  
+Lithia|a trace|[a trace]
+
+Viewed as a magnesium and calcium silicate the percentage composition becomes ---
+
+|The formula (5/8Mg 3/8Ca)SiO₃ requires  
+Silicic acid 56.165|56.604  
+Magnesia 23.612|23.585  
+Lime 20.223|19.811  
+
 This does not accord with the analyses of the ordinary varieties of augite, in which the calcium is usually in excess of the magnesium.
 
 It is, however, to be observed that a small deduction of the corresponding magnesium silicate (enstatite) has to be made by reason of the presence of the white mineral intercalated in layers along the direction parallel to the plane 0 0 1, and sometimes also to a second plane of the crystal. This mineral is doubtless the enstatite next to be described, and its presence would only modify the true formula of the augite by adding to the proportion of the magnesian constituent. The amount of one equivalent of enstatite to three of augite that this explanation would require, is more than microscopic observations would warrant; and it is probable that the augite itself is richer in magnesium than is usual in terrestrial augites.
@@ -208,6 +223,14 @@ The small amount of the oxide that in this augite corresponds to the ingredient 
 Besides the augitic mineral that has just been described, there is present in this meteorite another silicate which is in fact its most important ingredient. The augite is present in greatest quantity in the nodule that contains the calcium sulphide, though it is met with in smaller amount in the other parts of the meteorite. But associated with it everywhere, and otherwise forming the mass of the stone, is the mineral I have next to describe. As seen in a microscopic section, it presents the appearance of a number of more or less fissured crystals with different degrees of transparency, sometimes quite clear, sometimes nearly opaque, and with a more or less symmetrical polygonal outline. These crystals are imbedded in a magma of fine-grained silicate, through which a sort of irregular meshwork of an opaque white mineral is seen to ramify. When the ingredients are mechanically separated and examined, it is not difficult to distinguish what seem to be three different minerals. One is rare; it is colourless and transparent, and may be obtained in small splinters that have the appearance of being the result of a definite cleavage. The little planes thus obtained are too often merely divisional surfaces without crystallographic significance; and where they possess a more definite character, they present such rude faces that the values obtained for the angles can rarely be relied on. Another form of the mineral mass is that of a grey semitransparent splintery mineral, the fragments being generally very composite. From these two varieties I failed in obtaining the measurements of an entire zone, the planes in which belonged to the same individual, and the attempt to cleave these minute individuals apart only serves to destroy them. The third form is that of a dark grey glistening crystalline substance tabular in form and very opaque. It presented cleavages indistinctly marking the faces of a prism, for which the mean of several measurements gave an angle of { 88° 35′ / 91° 25′ }; and to the planes (1 1 0) of this prism a dull face (0 0 1) is perpendicular, which seems in this case to be a second and less facile cleavage.
 
 The results subjoined were obtained from seven selected fragments of the other forms of this mineral. They lack the important check which the polariscope affords; for the substance was usually too opaque for the use of this instrument, or else too composite to give any value to the results obtained with it. The fragments experimented upon were extremely minute and fragile, often breaking into powder while being mounted for the goniometer, and the angles are necessarily only approximate.
+
+Found.|In Breitenbach enstatite.  
+1 0 0, 1 1 0 about 46|45 52  
+1 1 0, 1' 1 0 87 10 to 88|88 15  
+1 0 0, 1 0 1 41 34|41 12  
+0 1 0, 0 1 1* about 40|40 21
+
+*) A dubious plane.
 
 The planes 1 0 0 and 1 1 0 are cleavages. In some cases, generally where the crystals are very composite, a cleavage seems to run parallel to a plane inclined at 73° to 74° to the face (1 0 0) and 90° to the face (0 1 0). As the forms of the mineral presenting this plane contain calcium, I have been uncertain whether to attribute the importance of this plane in certain specimens to an intermixture of augite with the enstatite. The plane 1 0 4 is also a conspicuous one on the crystals of enstatite in the Breitenbach meteorite, and the angle (74° 4′) which it makes with the plane 1 0 0 in that mineral is very near that of the inclination (73° 59′) of the planes 1 0 0 and 0 0 1 of diopside.
 
