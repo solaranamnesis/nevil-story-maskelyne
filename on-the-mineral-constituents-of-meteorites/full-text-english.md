@@ -304,10 +304,50 @@ In none of the particular meteorites hitherto examined in the Museum Laboratory 
 
 In order to determine approximately the proportions in which the different ingredient minerals were present in the meteorite, and to ascertain whether any other mineral had escaped detection, an analysis of the fragments and dust of the stone from the neighbourhood of the nodule containing the sulphides and the augite was made. The material employed was that obtained on cutting the meteorite by a dry wheel-saw, used to prevent the introduction of foreign substances. 1.874 grm. were taken for analysis. The sulphur was determined, as in the case of the Oldhamite, as sulphide of silver, and as separated by means of carbon disulphide. Heated with hydrogen chloride, and afterwards with potash, there was dissolved by those reagents and by the carbon disulphide 16.873 per cent., the residue being 83.127. The soluble part gave the results in column 1, the insoluble part those in column 2; the sulphur and sulphuric acid being supposed to be present as calcium sulphide and sulphate respectively.
 
+1\.
+
+|Percentages.|Oxygen ratios.  
+Calcium sulphate|0.442|  
+Calcium monosulphide|4.133|  
+Iron oxide|0.194|  
+Silicic acid|6.514|3.474  
+Lime|0.022|0.006  
+Magnesia|5.055|2.02  
+Potash|0.099|0.017  
+Soda|0.118|0.03  
+Lithia|---|---  
+|16.577
+
+2\.
+
+|Percentages.|Oxygen ratios.  
+Iron oxide|0.891|  
+Silicic acid|46.357|24.727  
+Lime|12.375|3.535  
+Magnesia|23.266|9.299
+Potash|0.14|0.023  
+Soda|0.455|0.117  
+Lithia|0.019|0.01  
+|83.503
+
 The insoluble part in this analysis would correspond to a composition SiO₃(Mg_sub(3/4)Ca_sub(1/4)), which, if we consider the calcium as being present as a constituent of the augite and the formula of this mineral to be SiO₃(Mg_sub(5/8)Ca_sub(3/8)), will give for the insoluble silicate of the rock in the neighbourhood of the nodule a composition of two equivalents of augite to one of enstatite. As the analysis of the soluble portion showed that some of the above minerals had been dissolved, it was thought advisable to determine what and how much of them were rendered soluble by the action of hydrogen chloride in the cold. For this purpose some fresh material, selected partly from the neighbourhood of the nodule, partly from a portion of the meteorite consisting entirely of silicates, was submitted to the action of a mixture of one of hydrogen chloride and two of water for sixty-six hours at ordinary temperatures. Some sulphuretted hydrogen was given off and 4.419 per cent. dissolved. By a further treatment of the insoluble portion with soda 1.204 per cent. was removed from it. The acid had dissolved 0.501 per cent. silica, an amount of calcium corresponding to 1.285 per cent. of Oldhamite, 1.896 per cent. of magnesia, and 0.564 per cent. of iron. The oxygen ratios of the silica and magnesia dissolved are as 0.91 to 0.758, and show that of the 3.601 per cent. magnesian silicates extracted about 2.65 per cent. was olivine, the residue being enstatite.*
 
 *) In 1863 Mr. William Dancer analysed some of this powder from the cutting of this meteorite in the Laboratory of Professor Bunsen at Heidelberg.  
 The results, which he was so good as to place in my hands, were as follow:---  
+SiO = 52.73  
+MgO = 37.22  
+FeO = 4.28  
+MnO = 0.01  
+CaO = 1.18  
+NiO = 0.78  
+CaSO4 = 1.58  
+Ca3PO8 = trace  
+CaCl = 0.01  
+NaS = 0.76  
+KO = trace  
+LiO = trace  
+HO = 0.92  
+Total = 99.47  
 "The mass of the stone," he says, "is evidently a monosilicate of magnesia, lime, potash, and lithia; the iron and nickel existing in small particles as nickel-iron together with a small portion of manganese. The percentage of substance soluble in water is 1.03; this consists of sulphide of sodium, chloride of calcium, sulphate of lime, and traces of lithia and potash." Of course from such material as was in Mr. Dancer's hands it was impossible for him to separate the different minerals.
 
 A formula for the augite rather richer in lime would no doubt give a truer statement of the composition; but it is as impossible to separate the small amount of enstatite intercalated in the layers of the augite, as it is to distinguish and remove the latter mineral from the enstatite with which it appears in general to be so intimately blended.
