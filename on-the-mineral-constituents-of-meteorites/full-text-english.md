@@ -225,10 +225,10 @@ Besides the augitic mineral that has just been described, there is present in th
 The results subjoined were obtained from seven selected fragments of the other forms of this mineral. They lack the important check which the polariscope affords; for the substance was usually too opaque for the use of this instrument, or else too composite to give any value to the results obtained with it. The fragments experimented upon were extremely minute and fragile, often breaking into powder while being mounted for the goniometer, and the angles are necessarily only approximate.
 
 Found.|In Breitenbach enstatite.  
-1 0 0, 1 1 0 about 46|45 52  
-1 1 0, 1' 1 0 87 10 to 88|88 15  
-1 0 0, 1 0 1 41 34|41 12  
-0 1 0, 0 1 1* about 40|40 21
+1 0 0, 1 1 0 about 46°|45° 52′  
+1 1 0, 1' 1 0 87° 10′ to 88°|88° 15′  
+1 0 0, 1 0 1 41° 34′|41° 12′  
+0 1 0, 0 1 1* about 40°|40° 21′
 
 *) A dubious plane.
 
@@ -465,10 +465,10 @@ The mineral is enstatite; if, at least, we are to include under this name every 
 Two of the grains selected from the picked green mineral for measurement gave the following results, ---
 
 Manegaum enstatite.|Breitenbach enstatite.  
-1 0 0, 1 1 0 = about 46|45 52  
-1 0 0, 1 0 1 = 49 4|48 49  
-1 1 0, 1' 1 0 = about 88|88 16  
-1 1 0, 1 0 1 = 58 39|58 24  
+1 0 0, 1 1 0 = about 46°|45° 52′  
+1 0 0, 1 0 1 = 49° 4′|48° 49′  
+1 1 0, 1' 1 0 = about 88°|88° 16′  
+1 1 0, 1 0 1 = 58° 39′|58° 24′  
 
 The comparison of these measurements with those obtained from the enstatite of the Breitenbach siderolite given in the second column will suffice for the identification of the two minerals as enstatite.
 
