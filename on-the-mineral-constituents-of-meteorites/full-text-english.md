@@ -18,7 +18,7 @@ The general features of the microscopic sections of certain meteorites were desc
 
 *) Abhandl. der Königl. Akademie der Wissensch. Berlin, 1864, p. 84.
 
-Such particles occasionally offer cleavage-planes, or even @ crystal face or two, to the goniometer. In a very few cases crystals have been found sufficiently complete to lead to a reliable crystallographic result}. The chief advantage of this method is, however, that it affords the means of analysing the separate minerals selected by it; but even thus the difficulties are considerable. The quantity of material at one's disposal amounts generally to a very few grains, and of these but a small proportion consists of the desired mineral; in fact half a gramme is as much as one is generally able to obtain in a state of purity.
+Such particles occasionally offer cleavage-planes, or even a crystal face or two, to the goniometer. In a very few cases crystals have been found sufficiently complete to lead to a reliable crystallographic result.* The chief advantage of this method is, however, that it affords the means of analysing the separate minerals selected by it; but even thus the difficulties are considerable. The quantity of material at one's disposal amounts generally to a very few grains, and of these but a small proportion consists of the desired mineral; in fact half a gramme is as much as one is generally able to obtain in a state of purity.
 
 *) The crystals of Anorthite in the Juvinas Meteorite were thus measured in the British Museum by my late colleague, Professor V. von Lang, Sitzungsber. Akad. der Wissensch. Wien, 1867.
 
