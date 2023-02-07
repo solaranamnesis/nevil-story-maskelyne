@@ -236,6 +236,66 @@ The planes 1 0 0 and 1 1 0 are cleavages. In some cases, generally where the cry
 
 The chemical analysis of these three minerals shows that they are really enstatite under different aspects. Where the substance contains no lime it presents itself as a simply prismatic mineral, the dark grey tabular variety; where lime is present, though to the amount of less than 2 per cent., the crystalline structure becomes more complex, and it is far more difficult to obtain pieces in which it is sufficiently definite in character to allow of any measurements at all. It seems probable that the augite is in these cases blended in minute quantity, by a sort of tesselation, with the enstatite, somewhat as the enstatite is seen to be intercalated in narrow bands between layers of the augite already described, although the enstatite in the latter case is in much larger relative amount. But I have failed to obtain satisfactory proof of the actual presence of the augite from the optical characters of the sections of the mineral as seen in the microscope; though these frequently exhibit a structure in a high degree composite in its crystalline characters, the principal sections of the different parts of the mineral being in these cases disposed at all sorts of angles of mutual inclination. The analysis of these minerals yielded the following numbers:---
 
+Dark grey tabular variety.
+
+|Percentages.|Oxygen ratios.  
+Silicic acid|57.597|30.718  
+Magnesia|40.64|16.238  
+Lime|---|---  
+Iron oxide|1.438|  
+Potash|0.394|  
+Soda|0.906|  
+|100.975  
+
+Transparent white variety.
+
+|Percentages.|Oxygen ratios.  
+Silicic acid|58.437|31.166  
+Magnesia|38.942|15.564  
+Lime|1.677|0.479  
+Iron oxide|1.177|  
+Potash|0.332|  
+Soda|0.357  
+|100.922  
+
+Semitransparent grey variety.
+
+1\.
+
+|Percentages.|Oxygen ratios.  
+Silicic acid|57.037|30.419  
+Magnesia|40.574|16.217  
+Lime|2.294|0.655  
+Iron oxide|0.867  
+Soda|---|  
+Potash|---|  
+Lithia|---|  
+|100.772
+
+2\.
+
+|Percentages.|Oxygen ratios.  
+Silicic acid|57.961|30.912  
+Magnesia|39.026|15.598|  
+Lime|1.524|0.435  
+Iron oxide|0.154  
+Soda|0.68  
+Potash|0.569  
+Lithia|---|  
+|99.914
+
+3\.
+
+|Percentages.|Oxygen ratios.  
+Silicic acid|57.754|30.802  
+Magnesia|38.397|15.347  
+Lime|2.376|0.678  
+Iron oxide|0.423  
+Soda|0.657  
+Potash|0.569  
+Lithia|0.016  
+|100.192
+
 The greater part of the soda and part of the potash in these analyses, as in those of the augite, is certainly due to an impurity traceable to a minute amount of these bases contaminating the hydrochloric acid employed. The iron is present partly as metallic iron in a state of minutest subdivision, in small part also without doubt in combination in the magnesian silicate. In every case the bases are slightly in excess of the amount requisite for the formula of enstatite. It would seem highly probable, from the comparison of these with the known analyses and with such as I shall have to offer of other meteorites, that where in these bodies the conditions under which the rock was formed were such that the silicic acid was in excess of that required by the formula for enstatite, it has remained uncombined in the form of a crystallised silica with the specific gravity of _fused_ quartz; but that where the magnesium and other bases were in excess, a basic silicate with the formula of olivine absorbed the supplementary portion of these bases. Where calcium is present, it probably converts into an augite a portion of the materials that otherwise would go to constitute enstatite.
 
 In none of the particular meteorites hitherto examined in the Museum Laboratory has a trace of alumina been found, though it has been carefully looked for, and consequently no felspathic ingredient has been detected in them.
