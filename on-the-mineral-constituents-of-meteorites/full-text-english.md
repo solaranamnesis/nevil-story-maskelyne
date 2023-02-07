@@ -362,17 +362,33 @@ I deemed it desirable in one case (and I selected the transparent variety for th
 
 Of the greyish-white variety, 1.0686 grm. was submitted to the action of acid for twenty hours at 100°, and subsequently to that of potash, to remove separated silica, for twelve hours. It yielded
 
+Mineral dissolved = 0.1006 grm., _viz._ {in acid, 0.0475 = 4.445 per cent.; in potash, 0.0531 = 4.969} = 9.414 per cent.
+
+Mineral unacted on = 0.968 = 90.586 per cent. 
+
 The analysis of the 9.414 per cent. dissolved is given in column 1 of the Table.
 
 Of the grey tabular variety of enstatite 0.1478 grm. were treated by hydrogen chloride for sixteen hours at 100°, and subsequently by potash for a similar time.
+
+The dissolved portion was 0.0115, _viz._ {by acid, 0.0047 = 3.179 per cent.; by potash, 0.0068 = 4.6 per cent.} = 7.779 per cent.
+
+The residue unacted on was 0.1363 = 92.19 per cent.
 
 The 7.779 per cent. dissolved gave on analysis numbers the approximate composition of which is given in column 2.
 
 Of the white variety of the enstatite 0.2082 grm. yielded on a _first treatment_ for twenty hours with acid, and subsequently with potash,
 
+Dissolved mineral = 0.0264, _viz._ {by acid, 0.0164 = 7.877 per cent.; by potash, 0.01 = 4.803 per cent.} = 12.68 per cent.
+
+and undissolved = 0.1818 = 87.319 per cent.
+
 The approximate composition of the 12.68 of dissolved mineral is given in column 3.
 
 On a _second_ treatment of the undissolved portion, whereof after two hours further trituration 0.1674 grm. were operated on as before with acid for thirty, and with potash for twelve hours,
+
+The mineral dissolved = 0.1137 _viz._ {by acid, 0.0437 = 41.766 per cent.; by potash, 0.07 = 26.074 per cent.} = 67.84 per cent.
+
+Mineral unacted on = 0.0539 = 32.16 per cent.
 
 On a _third_ treatment in a similar way 0.0424 grm. yielded:
 
