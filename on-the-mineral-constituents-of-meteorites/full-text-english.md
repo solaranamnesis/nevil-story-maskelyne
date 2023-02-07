@@ -392,6 +392,20 @@ Mineral unacted on = 0.0539 = 32.16 per cent.
 
 On a _third_ treatment in a similar way 0.0424 grm. yielded:
 
+Of mineral dissolved = 0.0217, _viz._ {by acid, 0.0091 = 21.47 per cent.; by potash, 0.0126 = 29.71} = 51.18
+
+Of mineral unacted on = 0.0207 = 48.82 per cent.
+
+|1.|2.|3.  
+Silicic acid|5.408|5.141|6.724  
+Magnesia|2.367|1.353|4.61  
+Lime|1.048|0.270|0.432  
+Iron oxide|0.187|0.676|0.576  
+Potash|0.121|0.528|0.504  
+Lithia|---|trace|trace  
+Total|9.131|7.968|12.846  
+Soda found|0.126|1.217|1.042
+
 In the last two treatments of the white silicate the quantities, 0.0437 and 0.0091 grm., of ingredients dissolved by the acid and 0.07 and 0.0126 of silicic acid dissolved by the potash were too small for even approximate analysis. The ratio of silicic acid to the bases, neglecting the small amount of the former dissolved by the acid, is in the last case in the ratio of 58.4 SiO₂ : 42 bases, that of the analysis of this white variety giving a ratio of 58.4 : 41.6.
 
 The degree to which the augite is soluble was determined by subjecting this mineral to a treatment similar to that by which the enstatite was dissolved; 0.2714 grm. so treated for eighteen hours by acid, and a similar time by potash at 100° C., gave 0.2614 of unchanged, and 0.0193 of dissolved mineral. This corresponds to 7.384 per cent. of the latter and 92.616 of the former.
@@ -403,6 +417,24 @@ There can be little doubt from these results that the action of acid on the mine
 A small pepita of the iron, weighing 0.1997 grm., contained in the meteorite was analysed. A small quantity of silicates and of glistening Schreibersite was left at first undissolved by hydrogen chloride. A second treatment with acid dissolved the latter.
 
 The first solution contained a trace of phosphoric acid, and a small quantity of hydrogen sulphide came off from the iron during its solution. The metallic constituents of the dissolved portion were separately determined, and an analysis was also made of the Schreibersite. The results were:
+
+Silicates 16.725 per cent.  
+Schreibersite:  
+
+Iron = 0.736  
+Nickel = 0.195  
+Phosphorus = 0.07  
+1.001  
+
+Iron 79.069  
+Nickel 3.205  
+100.000
+
+or, omitting the silicate,
+
+Iron-nick alloy {Iron 94.949, Nickel 3.849} --- 98.798  
+Schreibersite {Iron 0.884, Nickel 0.234, Phosphorus 0.084} --- 1.202  
+100.000
 
 The quantity was far too small to encourage a search for cobalt and other metals.
 
@@ -432,15 +464,37 @@ The mineral is enstatite; if, at least, we are to include under this name every 
 
 Two of the grains selected from the picked green mineral for measurement gave the following results, ---
 
+Manegaum enstatite.|Breitenbach enstatite.  
+1 0 0, 1 1 0 = about 46|45 52  
+1 0 0, 1 0 1 = 49 4|48 49  
+1 1 0, 1' 1 0 = about 88|88 16  
+1 1 0, 1 0 1 = 58 39|58 24  
+
 The comparison of these measurements with those obtained from the enstatite of the Breitenbach siderolite given in the second column will suffice for the identification of the two minerals as enstatite.
 
 The analysis of the Manegaum mineral was performed by the method of distillation already described. 0.2658 grm. was taken.
+
+|per cent.|Oxygen ratios.  
+Silicic acid = 0.14805|55.699|29.706  
+Magnesia = 0.0606|22.799|9.119  
+Iron monoxide = 0.0546|20.541|4.564  
+Lime = 0.0035|1.316|0.376  
+0.26675|100.355|  
 
 If we allow for the probable presence of a little augite, corresponding proportionately to the lime found in the analysis, this Manegaum mineral will have the formula of an enstatite richer in iron that even that of the Breitenbach siderolite, the formula for which is (4/5 Mg 1/5 Fe) SiO₃. The formula (2/3 Mg 1/3 Fe) SiO₃ requires a percentage composition of SiO₂ = 54.2; MgO = 24; FeO = 21.7, which would accord very closely with that of the Manegaum enstatite if we deduct the 1.5 per cent. of silica that the analysis gives in excess.
 
 The specific gravity of the Manegaum enstatite is 3.198, its hardness is 5-6.
 
 A small portion of the meteorite was taken for analysis in its entirety. A black mineral disseminated in a band running through it in minute crystalline particles is chromite; its formula is assumed as FeCr₂O₄. 0.4078 grm. was analysed by the hydrogen fluoride method, and gave the following results:---
+
+|per cent.|Oxygen ratios.  
+Silicic acid = 0.2187|53.629|28.602  
+Magnesia = 0.0951|23.32|9.328  
+Iron monoxide = 0.0835|20.476|4.55  
+Iron monoxide = 0.0013||  
+Chromium sesquioxide = 0.0029||  
+Lime = 0.0061|1.495|0.427  
+0.4076|99.949  
 
 The silicic acid in this sample of the entire meteorite is in the exact proportion requisite for the enstatite formula; it is therefore not improbable that the excess found in the green enstatite may have been due to an error in the analysis rather than to the presence of either free silica or of a silicate with a higher proportion of this ingredient.
 
