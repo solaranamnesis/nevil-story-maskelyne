@@ -1,6 +1,6 @@
 # On the Mineral Constituents of Meteorites.
 
-## By Nevil Story-Maskelyne, MA, Professor Mineralogy, Oxford, and Keeper of the Mineral Department, British Museum.
+## By Nevil Story-Maskelyne, MA, Professor of Mineralogy, Oxford, and Keeper of the Mineral Department, British Museum.
 
 ### October 9, 1869.
 
